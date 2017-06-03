@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinball Game.Plugins", "Pinball Game.Plugins.csproj", "{921944BB-00AC-64D2-7B00-3144FE3C0D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinball Game", "Pinball Game.csproj", "{8BE7B842-BCCD-AC7E-81DF-BD01B62153DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinball Game.Editor", "Pinball Game.Editor.csproj", "{4D6AE70B-7A4C-FBB4-56C6-DF0B01A40802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{921944BB-00AC-64D2-7B00-3144FE3C0D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921944BB-00AC-64D2-7B00-3144FE3C0D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921944BB-00AC-64D2-7B00-3144FE3C0D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921944BB-00AC-64D2-7B00-3144FE3C0D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE7B842-BCCD-AC7E-81DF-BD01B62153DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE7B842-BCCD-AC7E-81DF-BD01B62153DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE7B842-BCCD-AC7E-81DF-BD01B62153DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE7B842-BCCD-AC7E-81DF-BD01B62153DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D6AE70B-7A4C-FBB4-56C6-DF0B01A40802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6AE70B-7A4C-FBB4-56C6-DF0B01A40802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6AE70B-7A4C-FBB4-56C6-DF0B01A40802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6AE70B-7A4C-FBB4-56C6-DF0B01A40802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
