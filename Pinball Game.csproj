@@ -104,8 +104,6 @@
     <Compile Include="Assets\TurnParticlesOn.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Editor\GitHub\CREDITS.txt" />
-    <None Include="Assets\Editor\GitHub\EULA.txt" />
     <None Include="Assets\Externo\A_piece_of_nature\Readme.txt" />
     <None Include="Assets\Externo\Double Sided Shaders\Double Sided Transparent Diffuse Bump Cutout.shader" />
     <None Include="Assets\Externo\EffectExamples\Shared\Shaders\SurfaceShader_VC.shader" />
